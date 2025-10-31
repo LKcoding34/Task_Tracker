@@ -15,7 +15,6 @@ A full-stack task management app that goes beyond tracking — it thinks. Built 
 - ⏳ Identify upcoming deadlines
 - 📅 Analyze busiest days for better planning
 =======
-Absolutely, Kalyan! Here's a more engaging, polished, and visually structured version of your `README.md` that feels modern and developer-friendly — perfect for GitHub or portfolio presentation:
 
 ---
 
@@ -267,7 +266,7 @@ frontend/
 - ❌ Backend not responding? Ensure `node server.js` is running
 - ❌ Login failing? Use correct demo credentials
 - ❌ API errors? Check network tab in DevTools
->>>>>>> 0511ce3 (Prepare for rebase: save local changes)
+
 
 ---
 
@@ -301,15 +300,9 @@ createdAt TEXT DEFAULT CURRENT_TIMESTAMP
 - 🗃️ Export tasks to CSV
 ```
 
----
-
-=======
-- 🔔 Task reminders via email
-- 📱 Mobile responsiveness
-- 🧠 AI-based task suggestions
-- 🗃️ Export tasks to CSV
-
----
 
 
->>>>>>> 0511ce3 (Prepare for rebase: save local changes)
+
+
+
+
