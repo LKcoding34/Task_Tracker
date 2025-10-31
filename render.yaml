@@ -13,8 +13,9 @@ services:
       - key: DATABASE_URL
         value: ./tasks.db
 
-  - type: static
+  - type: web
     name: task-tracker-frontend
+    env: static
     rootDir: frontend
     buildCommand: npm install && npm run build
     staticPublishPath: build
