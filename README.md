@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Here’s a clean, professional, and developer-friendly `README.md` tailored for your **Task Tracker with Smart Insights** project. 
+Here’s a clean, professional, and developer-friendly `README.md` **Task Tracker with Smart Insights** project. 
 ---
 
 ```md
